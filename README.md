@@ -106,9 +106,9 @@ That's it. You only need to install it once.
 
 ## How to use
 
-- **Short click on the middle button:** Autoscroll starts. Move the mouse up or down to scroll.
-- **Click any button (left, right or middle):** Autoscroll stops.
-- **Hold the middle button, move the mouse, then release:** it scrolls while you hold and stops when you release.
+- **Normal middle click** (click and do not move the mouse): works as usual. It opens links in a new tab, pastes text, and so on.
+- **Start autoscroll:** press the middle button, keep holding it, and move the mouse a little up or down. Then you can release the button. The page keeps scrolling. The farther the mouse is from the starting point, the faster it scrolls.
+- **Stop autoscroll:** click any mouse button (left, right or middle). This click only stops the scrolling and is not sent to the page.
 
 While this program is running, the middle button no longer pastes text or opens links in a new tab. This is the same as on Windows.
 
